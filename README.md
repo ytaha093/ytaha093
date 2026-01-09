@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yaseen or @ytaha093
 - 👀 I’m a student at Mount Royal University interested in web development and database administration
-- 🌱 I’m currently learning React Native, Power BI, and getting my AZ-100
+- 🌱 I’m currently learning React Native, Power BI, and getting my AZ-900
 - 🔭 My [most recent project](https://github.com/ytaha093/Web3-F1-Data) is a react / tailwind app that serves F1 data
 - 📫 It is best to reach me at yaseen_taha123@hotmail.com
 <!--
